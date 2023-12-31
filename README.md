@@ -2,13 +2,13 @@
 
 
 - 📖 I’m currently studying a degree in digital arts.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 👯 I’m looking to collaborate on a videomapping project.
 - 🤔 I’m looking for help with pro tips on how to get a first job.
 - 💬 Ask me about animation, graphic design or videogames.
 - 📫 How to reach me: [@vaneds25](#) 
 - 😄 Pronouns: she/her.
-- ⚡ A fact: i love cats.💕
+- ⚡ A fact: I'm a catlover.💕
 
 ## ✌️ Some technologies I use: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
