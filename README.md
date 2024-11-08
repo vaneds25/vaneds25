@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a videomapping project.
 - 🤔 I’m looking for help with pro tips on how to get a first job.
 - 💬 Ask me about animation, graphic design or videogames.
-- 📫 How to reach me: [@vaneds25](#) 
+- 📫 How to reach me: [@vaneds25](https://www.linkedin.com/in/vaneds/) 
 - 😄 Pronouns: she/her.
 - ⚡ A fact: I'm a catlover.💕
 
