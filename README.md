@@ -4,7 +4,7 @@
 - 📖 I have a degree in digital arts.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 👯 I’m looking to collaborate on a videomapping project and create websites.
-- 🤔 I’m looking for help with pro tips on how to get a first job.
+- 🤔 I’m looking for help with pro tips on React
 - 💬 Ask me about animation, graphic design or videogames.
 - 📫 How to reach me: [@vaneds25](https://www.linkedin.com/in/vaneds/) 
 - 😄 Pronouns: she/her.
